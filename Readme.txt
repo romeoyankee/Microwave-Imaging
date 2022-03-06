@@ -1,5 +1,5 @@
 
-1. Read the given IEEE paper thoroughly to gain understanding of the concept and the code.  Fig 5 is implemented in the attached code.
+1. Read the below IEEE paper thoroughly to gain understanding of the concept and the code.  Fig 5 is implemented in the attached code.
 
   N. Joachimowicz, C. Pichot and J. P. Hugonin, "Inverse scattering: an iterative numerical method for electromagnetic imaging," in IEEE Transactions on Antennas and Propagation, vol. 39, no. 12, pp. 1742-1753, Dec. 1991.
 
